@@ -27,3 +27,5 @@ I am a boy
 ```python
 print("Fruit List")
 ```
+
+Use `print("smth is wrong")` in the print statement
