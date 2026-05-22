@@ -29,22 +29,22 @@ print("Fruit List")
 ```
 
 Use `print("smth is wrong")` in the print statement
-
+---
 
 |name | age | roll|
 |---|---|---|
 |ruhi|13| 01|
 |parikshit| 12| 02|
-|parikshit| 12| 02|
-|parikshit| 12| 02|
-|parikshit| 12| 02|
-|parikshit| 12| 02|
-|parikshit| 12| 02|
+
+---
 
 [this is my profile ](https://google.com)
 
 
-- [x] Requirement Gathering
-- [x] Design
+- [x] Requirement Gatering
+- [x] Designing
 - [ ] Coding
-- [ ] Testing
+- [ ] Deployment
+
+
+> Quote of the day is: Balen is great
