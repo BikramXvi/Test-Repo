@@ -12,3 +12,8 @@
 ---
 I am a boy
 ---
+
+- apple
+- banana
+- cherry
+- strawbery
