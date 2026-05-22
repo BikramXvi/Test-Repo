@@ -29,3 +29,9 @@ print("Fruit List")
 ```
 
 Use `print("smth is wrong")` in the print statement
+
+
+|name | age | roll|
+|---|---|---|
+|ruhi|13| 01|
+|parikshit| 12| 02|
