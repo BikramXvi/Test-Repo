@@ -48,3 +48,7 @@ Use `print("smth is wrong")` in the print statement
 
 
 > Quote of the day is: Balen is great
+
+---
+
+/# Not a heading just smth
