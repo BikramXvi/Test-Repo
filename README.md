@@ -42,3 +42,9 @@ Use `print("smth is wrong")` in the print statement
 |parikshit| 12| 02|
 
 [this is my profile ](https://google.com)
+
+
+- [x] Requirement Gathering
+- [x] Design
+- [ ] Coding
+- [ ] Testing
